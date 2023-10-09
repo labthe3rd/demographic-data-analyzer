@@ -1,0 +1,8 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none",
+  "python.defaultInterpreterPath": "C:\\Python311\\python.exe",
+  "black-formatter.interpreter": ["C:\\Python311\\python.exe"]
+}
